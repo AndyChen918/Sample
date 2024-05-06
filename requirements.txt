@@ -1,0 +1,5 @@
+urllib3==1.26.16
+selenium==4.12
+pyscreenshot==3.1
+pytesseract==0.3.10
+Appium-Python-Client==3.1.0
